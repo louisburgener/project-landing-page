@@ -1,0 +1,172 @@
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif;
+    align-items: center;
+}
+
+.logo {
+    color: #f9FAF8;
+    font-size: 50px;
+}
+
+.links {
+    font-size: 18px;
+    color: #E5E7EB;
+    display: flex;
+    flex-direction: row;
+}
+
+.link1 {
+    padding-left: 20px;
+}
+
+.link2 {
+    padding-left: 20px;
+}
+
+.link3{
+    padding-left: 20px;
+}
+
+.subheader{
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-around;
+    padding-top: 100px;
+    font-family: sans-serif;
+
+}
+
+.text {
+    flex-basis: 400px;
+}
+
+.awesome {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    flex-wrap: wrap;
+}
+
+.desc {
+    color: #E5E7EB;
+    flex-wrap: wrap;
+
+}
+
+.image1{
+    padding-bottom: 100px;
+}
+
+.button1 {
+    margin-top: 60px;
+    background-color: aqua;
+    color: black;
+    border: none;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.section2 {
+    font-family: sans-serif;
+}
+
+.header2 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.teams {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 75px;
+}
+
+.teams img {
+    width: 200px;
+    height: 200px;
+    margin: 5px 20px 0px 20px;
+}
+
+.shelby {
+    flex-basis: 250px;
+    flex-wrap: wrap;
+}
+
+.amg {
+    flex-basis: 250px;
+    flex-wrap: wrap;
+}
+
+.rimac {
+    flex-basis: 250px;
+    flex-wrap: wrap;
+}
+
+.porsche {
+    flex-basis: 250px;
+    flex-wrap: wrap;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding-top: 100px;
+    justify-content: center;
+}
+
+.actual {
+    font-size: 36px;
+    color: #1F2937;
+    align-self: center;
+    justify-content: center;
+}
+
+.author {
+    align-self: center;
+    flex-basis: 100px;
+    justify-content: center;
+
+}
+
+.textbox {
+    background-color: #3882F6;
+    margin: 50px 200px;
+    padding 10px 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: sans-serif;
+}
+
+.text2 {
+    font-size: 26px;
+    padding-top: 10px;
+    color: #E5E7EB;
+}
+
+.text2 p {
+    margin: 10px;
+}
+
+.button2 {
+    padding: 20px;
+    border: none;
+    background-color: greenyellow;
+    color: black;
+    font-size: 26px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    padding: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
