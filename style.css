@@ -4,6 +4,9 @@
     justify-content: space-around;
     font-family: sans-serif;
     align-items: center;
+    margin-top: -11px;
+    margin-left: -11px;
+    margin-right: -11px;
 }
 
 .logo {
@@ -36,7 +39,8 @@
     justify-content: space-around;
     padding-top: 100px;
     font-family: sans-serif;
-
+    margin-right: -11px;
+    margin-left: -11px;
 }
 
 .text {
@@ -118,6 +122,8 @@
     background-color: #E5E7EB;
     padding-top: 100px;
     justify-content: center;
+    margin-left: -11px;
+    margin-right: -11px;
 }
 
 .actual {
@@ -169,4 +175,7 @@
     align-items: center;
     display: flex;
     justify-content: center;
+    margin-bottom: -11px;
+    margin-right: -11px;
+    margin-left: -11px;
 }
